@@ -1,5 +1,5 @@
 <h1 style="font-weight:bold;" align="center">Hello Mundo 👋 Soy Javi</h1>
 
 <div align="center>
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JavhoSam)
-  </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JavhoSam&theme=tokyonight&hide_border=true"><br />
+</div>
