@@ -1,7 +1,1 @@
 ## Hello Mundo 👋 Soy Javi
-
-
-
-
-
-
