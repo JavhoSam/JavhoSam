@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **JavhoSam/JavhoSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![changofeo](https://github.com/JavhoSam/JavhoSam/assets/118634556/41b12123-90a7-43bd-afa1-27caa3d143af)
