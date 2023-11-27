@@ -1,4 +1,5 @@
-<center>## Hello Mundo 👋 Soy Javi</center>
+<p align="center"> 
+  ## Hello Mundo 👋 Soy Javi
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JavhoSam)
-
+</p>
